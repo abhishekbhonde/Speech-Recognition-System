@@ -66,6 +66,8 @@
     margin-top: 50px;
     border: solid 5px black;
     border-radius: 10px;
+    box-shadow: 0px 0px 5px 1px black;
+
   }
   .texts p.replay {
     text-align: right;
